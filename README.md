@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdhvikR
 - 👀 I’m interested in Cars, Planes, Engines
-- 🌱 I’m currently learning Python, Javascript
+- 🌱 I’m currently learning Python, Javascript, Java
 - 💞️ I’m looking to collaborate on everything involving complex machinery
 - 📫 How to reach me: Discord, DM to ask.
 - 😄 Pronouns: he/him
